@@ -1,6 +1,6 @@
 Crawl Your Own Web
 
-Is the desktop daemon that works toghether with a Firefox or Chrome plugin to index your browsing history locally.
+Is the desktop daemon that works together with a Firefox or Chrome plugin to index your browsing history locally.
 
 Meant to be an alternative to bookmarking.
 
