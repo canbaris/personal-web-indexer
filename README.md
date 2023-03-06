@@ -7,6 +7,6 @@ Meant to be an alternative to bookmarking.
 Prominent users and use case:
 Avid article readers who want to search through their previous browsing history with custom queries.
 
-Supports full text search.
+👉 Supports full text search on the article as well as title.
 
 Work in progress...
