@@ -1,4 +1,4 @@
-Crawl Your Own Web
+Your Own Web Crawler
 
 Is the desktop daemon that works together with a Firefox or Chrome plugin to index your browsing history locally.
 
