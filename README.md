@@ -9,3 +9,4 @@ Avid article readers who want to search through their previous browsing history 
 
 👉 Supports full text search on the article as well as title.
 
+in progress...
